@@ -29,7 +29,7 @@
     "complex-list": "latest",
     "connect-timeout": "^1.7.0",
     "dependable-list": "latest",
-    "express-jwt": "0.0.8",
+    "express-jwt": "latest",
     "glob": "^4.0.3",
     "lazy-dependable": "latest",
     "lodash": "^2.4.1",
